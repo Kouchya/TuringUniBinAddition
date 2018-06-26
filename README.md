@@ -1,6 +1,5 @@
-<font size=36><b>TuringUniBinAddition</b></font>
-
-Some simple algorithms for a Turing machine that can add two unary or two binary numbers.
+# TuringUniBinAddition
+<font size=36>Some simple algorithms for a Turing machine that can add two unary or two binary numbers.</font>
 ===
 
 uni.rbt: unary addition within 7 digits in total without zero<br>
